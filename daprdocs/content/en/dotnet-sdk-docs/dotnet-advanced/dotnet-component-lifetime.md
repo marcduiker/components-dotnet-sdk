@@ -72,9 +72,9 @@ class MultiStateStore : IStateStore
 
 ## Next steps
 
-- [Learn more about the application environment]({{< ref "dotnet-application-environment" >}})
-- [Learn more about multiple services]({{< ref "dotnet-multiple-services" >}})
+- [Learn more about the application environment]({{% ref "dotnet-application-environment" %}})
+- [Learn more about multiple services]({{% ref "dotnet-multiple-services" %}})
 - Learn more about using the Pluggable Component .NET SDK for:
-  - [Bindings]({{< ref "dotnet-bindings" >}})
-  - [Pub/sub]({{< ref "dotnet-pub-sub" >}})
-  - [State store]({{< ref "dotnet-state-store" >}})
+  - [Bindings]({{% ref "dotnet-bindings" %}})
+  - [Pub/sub]({{% ref "dotnet-pub-sub" %}})
+  - [State store]({{% ref "dotnet-state-store" %}})

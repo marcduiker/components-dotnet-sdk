@@ -166,7 +166,7 @@ The Dapr runtime has additional handling of certain error conditions resulting f
 
 ## Next steps
 
-- [Learn advanced steps for the Pluggable Component .NET SDK]({{< ref "dotnet-advanced" >}})
+- [Learn advanced steps for the Pluggable Component .NET SDK]({{% ref "dotnet-advanced" %}})
 - Learn more about using the Pluggable Component .NET SDK for:
-  - [Bindings]({{< ref "dotnet-bindings" >}})
-  - [Pub/sub]({{< ref "dotnet-pub-sub" >}})
+  - [Bindings]({{% ref "dotnet-bindings" %}})
+  - [Pub/sub]({{% ref "dotnet-pub-sub" %}})
