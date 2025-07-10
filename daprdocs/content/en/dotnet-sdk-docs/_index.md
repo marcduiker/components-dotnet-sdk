@@ -18,8 +18,8 @@ Dapr offers NuGet packages to help with the development of .NET pluggable compon
 ## Prerequisites
 
 - [.NET 6 SDK](https://dotnet.microsoft.com/en-us/download/dotnet) or later
-- [Dapr 1.9 CLI]({{< ref install-dapr-cli.md >}}) or later
-- Initialized [Dapr environment]({{< ref install-dapr-selfhost.md >}})
+- [Dapr 1.9 CLI]({{% ref install-dapr-cli.md %}}) or later
+- Initialized [Dapr environment]({{% ref install-dapr-selfhost.md %}})
 - Linux, Mac, or Windows (with WSL)
 
 {{% alert title="Note" color="primary" %}}
@@ -67,14 +67,14 @@ This creates an application with a single service. Each service:
 - Can host one or more component types
 
 {{% alert title="Note" color="primary" %}}
-Only a single component of each type can be registered with an individual service. However, [multiple components of the same type can be spread across multiple services]({{< ref dotnet-multiple-services >}}).
+Only a single component of each type can be registered with an individual service. However, [multiple components of the same type can be spread across multiple services]({{% ref dotnet-multiple-services %}}).
 {{% /alert %}}
 
 ## Implement and register components
 
- - [Implementing an input/output binding component]({{< ref dotnet-bindings >}})
- - [Implementing a pub-sub component]({{< ref dotnet-pub-sub >}})
- - [Implementing a state store component]({{< ref dotnet-state-store >}})
+ - [Implementing an input/output binding component]({{% ref dotnet-bindings %}})
+ - [Implementing a pub-sub component]({{% ref dotnet-pub-sub %}})
+ - [Implementing a state store component]({{% ref dotnet-state-store %}})
 
 ## Test components locally
 
@@ -195,8 +195,8 @@ Watch this video for a [demo on building pluggable components with .NET](https:/
 
 ## Next steps
 
-- [Learn advanced steps for the Pluggable Component .NET SDK]({{< ref "dotnet-advanced" >}})
+- [Learn advanced steps for the Pluggable Component .NET SDK]({{% ref "dotnet-advanced" %}})
 - Learn more about using the Pluggable Component .NET SDK for:
-  - [Bindings]({{< ref "dotnet-bindings" >}})
-  - [Pub/sub]({{< ref "dotnet-pub-sub" >}})
-  - [State store]({{< ref "dotnet-state-store" >}})
+  - [Bindings]({{% ref "dotnet-bindings" %}})
+  - [Pub/sub]({{% ref "dotnet-pub-sub" %}})
+  - [State store]({{% ref "dotnet-state-store" %}})

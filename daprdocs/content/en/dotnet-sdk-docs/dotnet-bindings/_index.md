@@ -133,7 +133,7 @@ A component that implements both `IInputBinding` and `IOutputBinding` will be re
 
 ## Next steps
 
-- [Learn advanced steps for the Pluggable Component .NET SDK]({{< ref "dotnet-advanced" >}})
+- [Learn advanced steps for the Pluggable Component .NET SDK]({{% ref "dotnet-advanced" %}})
 - Learn more about using the Pluggable Component .NET SDK for:
-  - [Pub/sub]({{< ref "dotnet-pub-sub" >}})
-  - [State store]({{< ref "dotnet-state-store" >}})
+  - [Pub/sub]({{% ref "dotnet-pub-sub" %}})
+  - [State store]({{% ref "dotnet-state-store" %}})
